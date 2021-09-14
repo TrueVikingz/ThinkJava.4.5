@@ -23,5 +23,11 @@ public class Main {
         public static void ping(String strangStrung) {
             System.out.println("any " + strangStrung + "more ");
         }
+        /* The output of this code will be:
+    just for
+    any not more
+    It's breakfast
+    !
+     */
     }
 }
